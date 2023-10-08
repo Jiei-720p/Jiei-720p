@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Jiei-720p
-- 👀 I’m interested in Yes
-- 🌱 I’m currently learning Yup
-- 💞️ I’m looking to collaborate on Probably
-- 📫 How to reach me Not
+- 😁 Hi, I’m Jiei-Dux
+- 😮 I’m interested in anything that has something to do with programming.
+- 😊 I’m currently learning C#, HTML, CSS, Javascript, Bash, and Lua.
+- 🙃 I’ll probably collaborate.
+- 😉 How to reach me: using your hands
 
 <!---
-Jiei-720p/Jiei-720p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Jiei-Dux is a just personal repository, this repository mainly contains stuff / programs that the college i am currently attending at requires us to pass. There are some programs / scripts / whatever, that is being uploaded here, use it however you like... or not... your choice.
 --->
