@@ -4,6 +4,5 @@
 - 🙃 I’ll probably collaborate.
 - 😉 How to reach me: using your hands
 
-<!---
-Jiei-Dux is a just personal repository, this repository mainly contains stuff / programs that the college i am currently attending at requires us to pass. There are some programs / scripts / whatever, that is being uploaded here, use it however you like... or not... your choice.
---->
+
+This is a just personal repository, this repository mainly contains stuff / programs that the college i am currently attending at requires us to pass. There are some programs / scripts / whatever, that is being uploaded here, use it however you like... or not... your choice.
